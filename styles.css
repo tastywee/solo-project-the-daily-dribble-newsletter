@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    text-align: center;
+    color: #121212;
+}
+
+img {
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+h1 {
+    color: #121212;
+}
+
+h5 {
+    margin: 10px;
+}
+
+input {
+    display: block;
+    text-align: center;
+    border: 3px solid #121212;
+    font-weight: bold;
+    padding: 10px 0px;
+    margin: 20px auto 5px auto;
+    width: 250px;
+}
+
+button {
+    background: #121212;
+    color: whitesmoke;
+    display: block;
+    margin: 10px auto 5px auto;
+    width: 250px;
+    padding: 10px 0px;
+}
+
+p {
+    font-style: italic;
+}
